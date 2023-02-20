@@ -1,0 +1,2 @@
+# springcloud
+share test configuration
